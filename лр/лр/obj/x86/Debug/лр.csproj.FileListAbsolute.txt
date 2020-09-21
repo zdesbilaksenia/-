@@ -1,0 +1,6 @@
+/home/ksenia/БКИТ/лр/лр/bin/Debug/лр.exe
+/home/ksenia/БКИТ/лр/лр/bin/Debug/лр.pdb
+/home/ksenia/БКИТ/лр/лр/obj/x86/Debug/лр.csprojAssemblyReference.cache
+/home/ksenia/БКИТ/лр/лр/obj/x86/Debug/лр.csproj.CoreCompileInputs.cache
+/home/ksenia/БКИТ/лр/лр/obj/x86/Debug/лр.exe
+/home/ksenia/БКИТ/лр/лр/obj/x86/Debug/лр.pdb
