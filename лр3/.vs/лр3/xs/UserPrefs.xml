@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{09F7E2CE-721C-4F64-AFEE-91413B731F75}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="лр3/SimpleStack.cs">
+    <Files>
+      <File FileName="лр3/GeomFig.cs" Line="10" Column="6" />
+      <File FileName="лр3/Matrix.cs" Line="2" Column="1" />
+      <File FileName="лр3/Main.cs" Line="29" Column="25" />
+      <File FileName="лр3/SimpleList.cs" Line="143" Column="30" />
+      <File FileName="лр3/SimpleStack.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="лр3" expanded="True">
+            <Node name="лр3" expanded="True">
+              <Node name="SimpleStack.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.лр3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
